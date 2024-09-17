@@ -24,3 +24,18 @@ footer {
   font-family: 'Open Sans';
   background-color: #fff;
 }
+
+@media (max-width: 800px) {
+  footer {
+    font-size: 12px;
+  }
+  .copy {
+    text-align: center;
+    font-size: 12px;
+  }
+  .endereco-titulo,
+  .horario-titulo,
+  .contatos-titulo {
+    margin-bottom: 5px;
+  }
+}
