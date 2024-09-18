@@ -1,3 +1,6 @@
+#register header span {
+  padding-right: 20px;
+}
 .conteudo-register {
   height: 751px;
   background: url('../imgs/bg_register.jpg');
