@@ -1,6 +1,6 @@
 # Auburn - Front-end Project
 
-Este projeto foi desenvolvido inteiramente do zero e é de minha autoria.O design da interface foi inicialmente criado no Figma e, em seguida, implementado em código. Trata-se de uma aplicação front-end responsiva, focada na experiência do usuário em diferentes dispositivos.
+Este projeto foi desenvolvido inteiramente do zero e é de minha autoria. O design da interface foi inicialmente criado no Figma e, em seguida, implementado em código. Trata-se de uma aplicação front-end responsiva, focada na experiência do usuário em diferentes dispositivos.
 
 Atualmente, estou trabalhando no desenvolvimento da versão full stack deste projeto.
 
