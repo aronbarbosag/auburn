@@ -1,11 +1,15 @@
 #car header span {
   padding-right: 20px;
 }
+#car #car-img {
+  object-fit: cover;
+  object-position: right;
+}
 .container-car-view {
   position: relative;
 }
 .car-conteudo {
-  width: max-content;
+  width: calc(100% - 600px);
 }
 
 .car-item {
@@ -81,5 +85,48 @@
   text-transform: capitalize;
   &:hover {
     background: #f17d81;
+  }
+}
+
+@media (max-width: 1530px) {
+  .car-item {
+    grid-template-columns: auto;
+    justify-content: flex-start;
+    gap: 10px;
+    padding: 30px;
+  }
+  .car-conteudo {
+    padding: 40px;
+    width: 80%;
+  }
+  .conteudo-direita img {
+    min-width: 20px;
+  }
+  .conteudo-direita li {
+    gap: 10px;
+  }
+  .conteudo-direita {
+    gap: 15px;
+  }
+  .conteudo-direita li span {
+    font-size: 14px;
+  }
+}
+@media (max-width: 500px) {
+  #car .btn-entrar-em-contato a {
+    font-size: 16px;
+  }
+  #car .btn-entrar-em-contato img {
+    width: 20px;
+  }
+  #car .preco {
+    font-size: 18px;
+  }
+
+  #car .conteudo-direita li {
+    gap: 5px;
+  }
+  #car .car-item {
+    top: -180px;
   }
 }
