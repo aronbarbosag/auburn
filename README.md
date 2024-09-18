@@ -11,5 +11,6 @@ Atualmente, estou trabalhando no desenvolvimento da versão full stack deste pro
     -   [Login](https://aronbarbosag.github.io/auburn/login)
     -   [Register](https://aronbarbosag.github.io/auburn/register)
     -   [Car](https://aronbarbosag.github.io/auburn/car)
+    -   OBS: É possível navegar utilizando os end points /login, /register ou /car. Os links e o formulário não estão funcionando, pois irei adicionar essas funcionalidadse no back-end.
 
 [Figma](https://www.figma.com/design/n5HHhTWXarJDbv7LTQlpm8/oficina-carro?node-id=2535-236&t=XjaZFzLCm62ocd1f-1)
