@@ -44,7 +44,7 @@ header {
 }
 /*----------------------------- medias queries-----------------------------*/
 
-@media (max-width: 1300px) {
+@media (max-width: 1500px) {
   .container {
     padding-left: 100px;
     padding-right: 100px;
