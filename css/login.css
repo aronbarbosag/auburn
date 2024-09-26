@@ -1,10 +1,10 @@
 #login header span {
-  padding-right: 20px;
+  padding-right: 12px;
 }
 
 .conteudo-login {
   height: 751px;
-  background: url('../imgs/bg_login.jpg');
+  background: url("../imgs/bg_login.jpg");
   background-position: center;
   background-size: cover;
   display: grid;
@@ -45,7 +45,7 @@
   margin-bottom: 30px;
 }
 #login #email {
-  background: url('../imgs/email.svg');
+  background: url("../imgs/email.svg");
   background-size: 28px 28px;
   background-repeat: no-repeat;
   background-position: 20px 5px;
@@ -54,7 +54,7 @@
 
 #login #senha {
   margin-bottom: 10px;
-  background: url('../imgs/password.svg');
+  background: url("../imgs/password.svg");
   background-size: 28px 28px;
   background-repeat: no-repeat;
   background-position: 20px 5px;

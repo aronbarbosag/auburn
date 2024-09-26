@@ -13,8 +13,8 @@ button {
   cursor: pointer;
 }
 body {
-  font-family: 'Open Sans', sans-serif;
-  background-image: url('../imgs/bg.png');
+  font-family: "Open Sans", sans-serif;
+  background-image: url("../imgs/bg.png");
 }
 img {
   max-width: 100%;
@@ -38,7 +38,7 @@ li {
   color: #f15f64;
 }
 .icon {
-  width: 28px;
+  width: 24px;
 }
 .icon.sm {
   width: 20px;
@@ -51,6 +51,7 @@ li {
 .btn-container {
   display: flex;
   gap: 38px;
+  font-size: 14px;
 }
 .btn {
   display: inline-flex;
@@ -58,11 +59,11 @@ li {
   border: 1px solid #000;
   border-radius: 47px;
   width: max-content;
-  gap: 20px;
+  gap: 12px;
   align-items: center;
   justify-content: center;
   font-family: inherit;
-  font-size: 20px;
+  font-size: 16px;
   letter-spacing: 0.4px;
   text-transform: capitalize;
 }

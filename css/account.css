@@ -1,9 +1,9 @@
 #account header span {
-  padding-right: 20px;
+  padding-right: 12px;
 }
 .conteudo-criar-conta {
   height: 751px;
-  background: url('../imgs/bg-account.jpg');
+  background: url("../imgs/bg-account.jpg");
   background-position: center;
   background-size: cover;
   display: grid;
@@ -45,14 +45,14 @@
 }
 
 #account #nome {
-  background: url('../imgs/username.svg');
+  background: url("../imgs/username.svg");
   background-size: 28px 28px;
   background-repeat: no-repeat;
   background-position: 20px 5px;
   background-color: #fff;
 }
 #account #email {
-  background: url('../imgs/msg.svg');
+  background: url("../imgs/msg.svg");
   background-size: 28px 28px;
   background-repeat: no-repeat;
   background-position: 20px 5px;
@@ -61,7 +61,7 @@
 
 #account #senha,
 #account #senha2 {
-  background: url('../imgs/password.svg');
+  background: url("../imgs/password.svg");
   background-size: 28px 28px;
   background-repeat: no-repeat;
   background-position: 20px 5px;
